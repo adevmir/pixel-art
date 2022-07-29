@@ -1,7 +1,3 @@
-/* eslint-disable vars-on-top */
-/* eslint-disable no-var */
-/* eslint-disable no-unused-vars */
-/* eslint-disable max-lines-per-function */
 const tabelaExsite = 1;
 let tamanho = 5;
 function colorSelect(colorId) {
